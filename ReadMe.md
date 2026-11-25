@@ -1,5 +1,5 @@
 # 💫 About Me:
-entry-level Software Engineer (MCA, 2026) with internship experience in enterprise application development at Sagitec <br>Solutions. Proficient in Python, Java, C#, SQL, Django and ASP.NET MVC, with hands-on experience building web applications, <br>REST APIs and AI-powered solutions using the Gemini API. Seeking a Software Developer role. 
+Entry-level Software Engineer (MCA, 2026) with internship experience in enterprise application development at Sagitec <br>Solutions. Proficient in Python, Java, C#, SQL, Django and ASP.NET MVC, with hands-on experience building web applications, <br>REST APIs and AI-powered solutions using the Gemini API. Seeking a Software Developer role. 
 
 
 ## 🌐 Socials:
