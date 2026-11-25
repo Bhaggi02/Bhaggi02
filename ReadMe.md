@@ -2,9 +2,11 @@
 
 Entry-level Software Engineer (MCA, 2026) with internship experience in enterprise application development at Sagitec Solutions. I work with Python, Java, C#, SQL, Django, and ASP.NET MVC, and enjoy building web applications, REST APIs, and AI-powered solutions. I'm seeking a Software Developer role.
 
-## Connect with me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyashree-makhija-a59912227/)
+- 🌐 [View my portfolio](https://portfolio-eta-umber-aq519d7ljk.vercel.app)
+- 💻 [Browse the portfolio source code](https://github.com/Bhaggi02/portfolio)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/bhagyashree-makhija-a59912227/)
 
 ## Tech I work with
 
